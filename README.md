@@ -7,7 +7,7 @@ Java17で動作チェックしてるので他のバージョンでは動かな�
 ・DiscordMuteInVRChat
 
 
-**DiscordMuteInVRChat**\n
+**DiscordMuteInVRChat**
 使い方
   1. Discordのショートカットに「ミュート切り替え」を「End」で登録
   2. アバターのパラメータにDiscordMuteをBoolで作ってExMenuでToggle出来るようにする
