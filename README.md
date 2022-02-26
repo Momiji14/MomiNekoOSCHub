@@ -14,7 +14,7 @@ Java17で動作チェックしてるので他のバージョンでは動かな�
   2. アバターのパラメータにDiscordMuteをBoolで作ってExMenuでToggle出来るようにする
   3. MomiNekoOSCHub.batを起動する
 
-Config:
+Config
   ・DiscordMuteToggleKey: ショートカットキーを変えれます
   ・DiscordMuteAddress: トリガーになるパラメータを変えれます
   ・DiscordMuteTriggerOnVRCMute: trueにするとVRChat内でMuteするとDiscordMuteも切り替わるようになります
