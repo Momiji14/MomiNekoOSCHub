@@ -3,6 +3,8 @@
 
 Java17で動作チェックしてるので他のバージョンでは動かないかもしれません
 
+**Download:** https://github.com/Momiji14/MomiNekoOSCHub/releases
+
 **現在ある機能**
 1. DiscordMuteInVRChat
 
