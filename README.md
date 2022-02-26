@@ -3,8 +3,8 @@
 
 Java17で動作チェックしてるので他のバージョンでは動かないかもしれません
 
-現在ある機能:
-・DiscordMuteInVRChat
+**現在ある機能**
+1. DiscordMuteInVRChat
 
 
 **DiscordMuteInVRChat**
