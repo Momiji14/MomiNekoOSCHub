@@ -14,6 +14,7 @@ Java17で動作チェックしてるので他のバージョンでは動かな�
 **DiscordMuteInVRChat**
 1. Discordのショートカットに「ミュート切り替え」を「End」で登録
 2. アバターのパラメータにDiscordMuteをBoolで作ってExMenuでToggle出来るようにする
+3. ※DiscordMuteTriggerOnVRCMuteをtrueにするとVRChat内でMuteするとDiscordMuteも切り替わるようになります
 
 **CopyPasteInVRChat**
 1. アバターのパラメータにCopyTriggerとPasteTriggerをBoolで作ってExMenuでToggle出来るようにする
@@ -21,8 +22,7 @@ Java17で動作チェックしてるので他のバージョンでは動かな�
 **OSCRouter[Experimental]**
 1. 他のOSCソフトを同時使用するための機能です
 2. ConfigのOSCRouterPortで設定できます
-
-※DiscordMuteTriggerOnVRCMuteをtrueにするとVRChat内でMuteするとDiscordMuteも切り替わるようになります
+3. ※同時使用する他OSCソフトにPort設定できる機能が必要です
 
 ※アバターに新しくパラメータを追加した際はResetConfigしないとOSCに反映されないのでご注意ください
   
