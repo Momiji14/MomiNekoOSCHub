@@ -15,6 +15,7 @@ Java17で動作チェックしてるので他のバージョンでは動かな�
 1. Discordのショートカットに「ミュート切り替え」を「End」で登録
 2. アバターのパラメータにDiscordMuteをBoolで作ってExMenuでToggle出来るようにする
 3. ※DiscordMuteTriggerOnVRCMuteをtrueにするとVRChat内でMuteするとDiscordMuteも切り替わるようになります
+4. ※DiscordMuteToggleToVRCMuteをtrueにするとミュート切り替え時にVRChatのMuteも切り替わるようになります
 
 **CopyPasteInVRChat**
 1. アバターのパラメータにCopyTriggerとPasteTriggerをBoolで作ってExMenuでToggle出来るようにする
