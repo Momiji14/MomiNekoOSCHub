@@ -8,7 +8,8 @@ Java17で動作チェックしてるので他のバージョンでは動かな�
 **現在ある機能**
 1. DiscordMuteInVRChat
 2. CopyPasteInVRChat
-3. OSCRouter[Experimental]
+3. Shortcut
+4. OSCRouter[Experimental]
 
 
 **DiscordMuteInVRChat**
