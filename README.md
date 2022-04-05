@@ -20,6 +20,9 @@ Java17で動作チェックしてるので他のバージョンでは動かな�
 **CopyPasteInVRChat**
 1. アバターのパラメータにCopyTriggerとPasteTriggerをBoolで作ってExMenuでToggle出来るようにする
 
+**Shortcut**
+1. ConfigからAddressとKeyIDを指定します
+
 **OSCRouter[Experimental]**
 1. 他のOSCソフトを同時使用するための機能です
 2. ConfigのOSCRouterPortで設定できます
